@@ -4,6 +4,8 @@
 
 sudo ./getpacket -r saved.pcap
 
+sudo ./getpacket -r test.pcap
+
 sudo ./getpacket -n 4
 
 sudo ./getpacket
