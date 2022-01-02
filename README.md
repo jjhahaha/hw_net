@@ -1,7 +1,6 @@
 # NP_hw3
 ## 題目要求
-### pcap讀檔與統計程式
-
+### pcap讀檔
 sudo ./getpacket -r saved.pcap
 
 sudo ./getpacket -r test.pcap
