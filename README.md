@@ -3,17 +3,17 @@
 ### pcap讀檔
 
 
-從pcap_file中讀取封包
+## 從pcap_file中讀取封包
 
 sudo ./get -r saved.pcap
 
 sudo ./get -r test.pcap
 
 
-從可取得的device中讀取pcap num個封包
+## 從可取得的device中讀取pcap num個封包
 sudo ./get -n 4
 
-從device中讀取封包直到下命令中止
+## 從device中讀取封包直到下命令中止
 sudo ./get
 
 
