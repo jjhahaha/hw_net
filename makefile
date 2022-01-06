@@ -1,6 +1,6 @@
 all:
 	gcc get.c -o get -lpcap
-	gcc save.c -o save -lpcap
+	gcc catch.c -o catch -lpcap
 clean:
 	rm get
 run:
