@@ -13,7 +13,7 @@
 
 ## 從pcap_file中讀取封包
 
-sudo ./get -r saved.pcap
+sudo ./get -r catch.pcap
 
 sudo ./get -r test.pcap
 
