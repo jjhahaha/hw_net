@@ -18,3 +18,5 @@ sudo ./get
 
 
 https://www.itread01.com/content/1546926183.html
+
+sudo apt-get install libpcap-dev
